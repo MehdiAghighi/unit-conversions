@@ -1,21 +1,21 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "mehdi-aghighi/unit_conversions",
+    "description": "Converts Units to one another",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "Mehdi Aghighi",
+        "unit_conversions"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/mehdi-aghighi/unit_conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Mehdi Aghighi",
+            "email": "mamaliosezar@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^8.0"
+        "php": "^7.4|^8.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "MehdiAghighi\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "MehdiAghighi\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
