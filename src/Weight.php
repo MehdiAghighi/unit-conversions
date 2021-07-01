@@ -2,8 +2,6 @@
 
 namespace MehdiAghighi\UnitConversions;
 
-use DateTime;
-
 class Weight
 {
     private float $kilograms;
