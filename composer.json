@@ -1,11 +1,11 @@
 {
-    "name": "mehdiaghighi/unit_conversions",
+    "name": "mehdiaghighi/unit-conversions",
     "description": "Converts Units to one another",
     "keywords": [
         "Mehdi Aghighi",
-        "unit_conversions"
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/MehdiAghighi/unit_conversions",
+    "homepage": "https://github.com/MehdiAghighi/unit-conversions",
     "license": "MIT",
     "authors": [
         {
