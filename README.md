@@ -1,9 +1,9 @@
 # Converts Units to one another
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mehdi-aghighi/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mehdi-aghighi/unit_conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/mehdi-aghighi/unit_conversions/run-tests?label=tests)](https://github.com/mehdi-aghighi/unit_conversions/actions?query=workflow%3ATests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/mehdi-aghighi/unit_conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/mehdi-aghighi/unit_conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/mehdi-aghighi/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mehdi-aghighi/unit_conversions)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mehdiaghighi/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mehdiaghighi/unit_conversions)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/mehdiaghighi/unit_conversions/run-tests?label=tests)](https://github.com/mehdiaghighi/unit_conversions/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/mehdiaghighi/unit_conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/mehdiaghighi/unit_conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/mehdiaghighi/unit_conversions.svg?style=flat-square)](https://packagist.org/packages/mehdiaghighi/unit_conversions)
 
 ---
 This package can be used as to scaffold a Laravel package. Follow these steps to get started:
@@ -29,7 +29,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require mehdi-aghighi/unit_conversions
+composer require mehdiaghighi/unit_conversions
 ```
 
 ## Usage
